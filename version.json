@@ -1,12 +1,12 @@
 {
-  "latestVersion": "1.0.3",
-  "downloadUrl": "https://github.com/EnesBaykal/Mueen-Mobile-releases/releases/download/v1.0.3/MueenMobile.apk",
+  "latestVersion": "1.0.5",
+  "downloadUrl": "https://github.com/EnesBaykal/Mueen-Mobile-releases/releases/download/v1.0.5/MueenMobile.apk",
   "isMandatory": false,
   "minSupportedVersion": "1.0.0",
   "releaseNotes": {
-    "tr": "Güncelleme kurulumu düzeltildi: Android \"bilinmeyen kaynaktan yükleme\" izni yokken kurulum sessizce takılıyordu; artık izin ekranı açılıyor ve buton doğru etiketi gösteriyor. Ayrıca telefon/tablet arayüz düzeltmeleri.",
-    "en": "Fixed update installation: with the Android \"install unknown apps\" permission missing, installing stalled silently; the permission screen now opens and the button shows the correct label. Plus phone/tablet UI fixes.",
-    "ar": "إصلاح تثبيت التحديث: عند عدم وجود إذن \"تثبيت التطبيقات غير المعروفة\" كان التثبيت يتوقف بصمت؛ تُفتح الآن شاشة الإذن ويظهر الزر بالتسمية الصحيحة. بالإضافة إلى إصلاحات واجهة الهاتف/الجهاز اللوحي."
+    "tr": "Güncelleme kurulumu artık gerçekten çalışıyor: indirilen APK, Android paket yükleyicisinin okuyabildiği klasöre iniyor (eskiden kurulum sessizce hiç başlamıyordu). Uygulama simgesi eklendi. İzin gerekiyorsa artık açıklama gösteriliyor.",
+    "en": "Update installation now actually works: the downloaded APK lands in a folder the Android package installer can read (installing used to silently never start). App icon added. A message is now shown when permission is required.",
+    "ar": "تثبيت التحديث يعمل الآن فعلياً: يتم تنزيل ملف APK إلى مجلد يمكن لمثبّت حزم أندرويد قراءته (كان التثبيت لا يبدأ بصمت). تمت إضافة أيقونة التطبيق. تظهر الآن رسالة عند الحاجة إلى الإذن."
   },
-  "publishedAt": "2026-07-29T03:10:00Z"
+  "publishedAt": "2026-07-29T03:30:00Z"
 }
