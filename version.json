@@ -1,12 +1,12 @@
 {
-  "latestVersion": "1.0.0",
-  "downloadUrl": "https://github.com/EnesBaykal/Mueen-Mobile-releases/releases/download/v1.0.0/MueenMobile.apk",
+  "latestVersion": "1.0.1",
+  "downloadUrl": "https://github.com/EnesBaykal/Mueen-Mobile-releases/releases/download/v1.0.1/MueenMobile.apk",
   "isMandatory": false,
   "minSupportedVersion": "1.0.0",
   "releaseNotes": {
-    "tr": "İlk sürüm.",
-    "en": "First release.",
-    "ar": "الإصدار الأول."
+    "tr": "Telefon/tablet düzeltmeleri: giriş ekranında kırpılan alan etiketi, kullanıcı listesinde sıkışan ad, borç ekranı başlık şeridi, sistem kayıtları filtre hizası, doğru sürüm gösterimi.",
+    "en": "Phone/tablet fixes: clipped field label on login, cramped name in user list, debt screen header strip, system log filter alignment, correct version display.",
+    "ar": "إصلاحات الهاتف/الجهاز اللوحي: تسمية الحقل المقطوعة في تسجيل الدخول، الاسم المضغوط في قائمة المستخدمين، شريط عنوان شاشة الديون، محاذاة مرشح سجلات النظام، عرض الإصدار الصحيح."
   },
-  "publishedAt": "2026-07-29T00:12:21Z"
+  "publishedAt": "2026-07-29T03:00:00Z"
 }
