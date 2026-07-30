@@ -1,12 +1,12 @@
 {
-  "latestVersion": "1.0.5",
-  "downloadUrl": "https://github.com/EnesBaykal/Mueen-Mobile-releases/releases/download/v1.0.5/MueenMobile.apk",
+  "latestVersion": "1.0.7",
+  "downloadUrl": "https://github.com/EnesBaykal/Mueen-Mobile-releases/releases/download/v1.0.7/MueenMobile.apk",
   "isMandatory": false,
   "minSupportedVersion": "1.0.0",
   "releaseNotes": {
-    "tr": "Güncelleme kurulumu artık gerçekten çalışıyor: indirilen APK, Android paket yükleyicisinin okuyabildiği klasöre iniyor (eskiden kurulum sessizce hiç başlamıyordu). Uygulama simgesi eklendi. İzin gerekiyorsa artık açıklama gösteriliyor.",
-    "en": "Update installation now actually works: the downloaded APK lands in a folder the Android package installer can read (installing used to silently never start). App icon added. A message is now shown when permission is required.",
-    "ar": "تثبيت التحديث يعمل الآن فعلياً: يتم تنزيل ملف APK إلى مجلد يمكن لمثبّت حزم أندرويد قراءته (كان التثبيت لا يبدأ بصمت). تمت إضافة أيقونة التطبيق. تظهر الآن رسالة عند الحاجة إلى الإذن."
+    "tr": "Fişi PDF olarak kaydetme (yazıcısız), fişi WhatsApp'a doğrudan gönderme, ürünlerde Düzine/Set birimi seçenekleri eklendi. Ayrıca lisans güvenliği güçlendirildi (30 gün boyunca sunucuya hiç ulaşılamazsa kilitleme) ve satış/stok düzenleme süresi kısıtlaması varsayılan olarak kaldırıldı.",
+    "en": "Added: save receipt as PDF (no printer needed), send receipt directly via WhatsApp, Dozen/Set unit options for products. Also strengthened license security (locks if the server hasn't been reached in 30 days) and removed the default time limit on editing sales/stock records.",
+    "ar": "أُضيف: حفظ الإيصال كملف PDF (بدون طابعة)، إرسال الإيصال مباشرة عبر واتساب، خيارات وحدة الدرزن/السيت للمنتجات. كما تم تعزيز أمان الترخيص (القفل إذا لم يتم الوصول إلى الخادم لمدة 30 يوماً) وإزالة الحد الزمني الافتراضي لتعديل سجلات المبيعات/المخزون."
   },
-  "publishedAt": "2026-07-29T03:30:00Z"
+  "publishedAt": "2026-07-30T09:29:00Z"
 }
