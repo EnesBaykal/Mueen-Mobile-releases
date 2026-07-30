@@ -1,12 +1,12 @@
 {
-  "latestVersion": "1.1.1",
-  "downloadUrl": "https://github.com/EnesBaykal/Mueen-Mobile-releases/releases/download/v1.1.1/MueenMobile.apk",
+  "latestVersion": "1.1.2",
+  "downloadUrl": "https://github.com/EnesBaykal/Mueen-Mobile-releases/releases/download/v1.1.2/MueenMobile.apk",
   "isMandatory": false,
   "minSupportedVersion": "1.0.0",
   "releaseNotes": {
-    "tr": "Düzine/Set ürünlerde ürün ekleme sadeleşti: 'Adet veya Set' ve 'Adet veya Düzine' seçenekleri kaldırıldı, ürün ya adetle ya setle/düzineyle satılır. Set büyüklüğü artık '1 sette kaç adet var?' diye soruluyor ve adet satışında da isteniyor. Alış fiyatı her zaman setin/düzinenin, satış fiyatı ise seçtiğiniz birimin fiyatıdır. Ayrıca gereksiz dosyalar çıkarılarak kurulum boyutu 68,7 MB'tan 61,3 MB'a indirildi. Önceki sürümdeki Düzine/Set birimleri ve toptan fiyatlandırma bu sürümde de aynen geçerli.",
-    "en": "Adding Dozen/Set products is simpler: the 'Piece or Set' and 'Piece or Dozen' options were removed — a product is sold either by piece or by set/dozen. The pack size is now asked as 'How many pieces in a set?' and is required for piece sales too. The purchase price is always the set's/dozen's price, while the sale price follows the unit you pick. The install size also dropped from 68.7 MB to 61.3 MB by removing unused files. Dozen/Set units and wholesale pricing from the previous release are unchanged.",
-    "ar": "أصبحت إضافة منتجات الدرزن/السيت أبسط: أُزيل خيارا 'قطعة أو سيت' و'قطعة أو درزن' — يُباع المنتج إما بالقطعة أو بالسيت/الدرزن. يُسأل الآن عن حجم العبوة بصيغة 'كم قطعة في السيت؟' ويُطلب أيضاً عند البيع بالقطعة. سعر الشراء هو دائماً سعر السيت/الدرزن، أما سعر البيع فيتبع الوحدة التي تختارها. كما انخفض حجم التثبيت من 68.7 ميغابايت إلى 61.3 ميغابايت بإزالة ملفات غير مستخدمة. تبقى وحدات الدرزن/السيت وأسعار الجملة من الإصدار السابق كما هي."
+    "tr": "Düzine/Set ürünlerde alış ve stok girişi artık paket üzerinden yapılıyor: miktar alanına yazdığınız sayı set/düzine sayısıdır ve stoğa oran kadar çarpılarak adet olarak girer (5 set × 12 = 60 adet; alanın altında kaç adet olacağı anında yazar). Girilen alış fiyatı setin/düzinenin fiyatıdır, adet maliyeti otomatik hesaplanır. Alışlar ekranında set/düzine ürün her zaman paketle alınır. Ayrıca ürün kartında 'Adet veya Set' / 'Adet veya Düzine' seçenekleri kaldırıldı ve kurulum boyutu küçültüldü.",
+    "en": "Purchases and stock entry for Dozen/Set products now work per pack: the quantity you type is the number of sets/dozens and is multiplied by the pack size when written to stock (5 sets × 12 = 60 pieces; the piece total is shown live under the field). The purchase price you enter is the set's/dozen's price and the per-piece cost is derived automatically. In the Purchases screen a dozen/set product is always bought as a pack. The 'Piece or Set' / 'Piece or Dozen' options were also removed from the product form, and the install size was reduced.",
+    "ar": "أصبح الشراء وإدخال المخزون لمنتجات الدرزن/السيت يتم حسب العبوة: الرقم الذي تكتبه في حقل الكمية هو عدد السيتات/الدرزنات ويُضرب بحجم العبوة عند إضافته للمخزون (5 سيتات × 12 = 60 قطعة، ويظهر المجموع مباشرة أسفل الحقل). سعر الشراء الذي تُدخله هو سعر السيت/الدرزن، وتُحتسب تكلفة القطعة تلقائياً. في شاشة المشتريات يُشترى منتج الدرزن/السيت دائماً كعبوة. كما أُزيل خيارا 'قطعة أو سيت' و'قطعة أو درزن' من بطاقة المنتج، وقُلّص حجم التثبيت."
   },
-  "publishedAt": "2026-07-30T22:20:00Z"
+  "publishedAt": "2026-07-30T23:05:00Z"
 }
