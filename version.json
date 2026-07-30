@@ -1,12 +1,12 @@
 {
-  "latestVersion": "1.0.7",
-  "downloadUrl": "https://github.com/EnesBaykal/Mueen-Mobile-releases/releases/download/v1.0.7/MueenMobile.apk",
+  "latestVersion": "1.1.0",
+  "downloadUrl": "https://github.com/EnesBaykal/Mueen-Mobile-releases/releases/download/v1.1.0/MueenMobile.apk",
   "isMandatory": false,
   "minSupportedVersion": "1.0.0",
   "releaseNotes": {
-    "tr": "Fişi PDF olarak kaydetme (yazıcısız), fişi WhatsApp'a doğrudan gönderme, ürünlerde Düzine/Set birimi seçenekleri eklendi. Ayrıca lisans güvenliği güçlendirildi (30 gün boyunca sunucuya hiç ulaşılamazsa kilitleme) ve satış/stok düzenleme süresi kısıtlaması varsayılan olarak kaldırıldı.",
-    "en": "Added: save receipt as PDF (no printer needed), send receipt directly via WhatsApp, Dozen/Set unit options for products. Also strengthened license security (locks if the server hasn't been reached in 30 days) and removed the default time limit on editing sales/stock records.",
-    "ar": "أُضيف: حفظ الإيصال كملف PDF (بدون طابعة)، إرسال الإيصال مباشرة عبر واتساب، خيارات وحدة الدرزن/السيت للمنتجات. كما تم تعزيز أمان الترخيص (القفل إذا لم يتم الوصول إلى الخادم لمدة 30 يوماً) وإزالة الحد الزمني الافتراضي لتعديل سجلات المبيعات/المخزون."
+    "tr": "Ürünlerde Düzine/Set birimi ve toptan (koli) alış/satış fiyatı: toptan fiyat artık adet fiyatının katı olmak zorunda değil, ayrı girilebiliyor. Düzine/set birimli ürün satışa eklenince ekranın siyah kalmasına yol açan hata giderildi. Stok her zaman adet üzerinden tutulur, toptan satırlar otomatik adede çevrilir. Raporlarda en çok satanlar tablosuna perakende/toptan kırılımı, fişte satılan birim etiketi (örn. '2 set') eklendi.",
+    "en": "Products now support Dozen/Set units and wholesale (box) purchase/sale prices: the wholesale price no longer has to be a multiple of the unit price and can be entered separately. Fixed a bug that left the screen black when a dozen/set product was added to a sale. Stock is always tracked in single units; wholesale lines are converted automatically. Reports now split best sellers into retail/wholesale, and receipts show the sold unit label (e.g. '2 set').",
+    "ar": "أُضيفت وحدات الدرزن/السيت وأسعار الشراء والبيع بالجملة (الكرتون) للمنتجات: لم يعد سعر الجملة مضطراً لأن يكون مضاعفاً لسعر القطعة، ويمكن إدخاله بشكل منفصل. تم إصلاح خلل كان يُبقي الشاشة سوداء عند إضافة منتج بوحدة درزن/سيت إلى البيع. يُحتسب المخزون دائماً بالقطعة، وتُحوَّل سطور الجملة تلقائياً. أصبحت التقارير تُظهر تفصيل الأكثر مبيعاً بين التجزئة والجملة، ويُطبع على الإيصال اسم الوحدة المباعة (مثل '2 سيت')."
   },
-  "publishedAt": "2026-07-30T09:29:00Z"
+  "publishedAt": "2026-07-30T21:30:00Z"
 }
